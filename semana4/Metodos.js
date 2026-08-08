@@ -37,4 +37,18 @@ const notas2 = [6, 7, 8, 9];
 const todosAprovados = notas2.every((nota) => nota >= 6);
 console.log(todosAprovados);
 
-// sort() 
+// sort() organiza o array alterando o original (ele transforma tudo p string e usa a Unicode)
+// dá problema se não usar comparador com numeros
+const numeros = [0, 21, 10, 2];
+console.log([...numeros].sort()); // teste p ver resultado sem comparador
+const ordemCres = [...numeros].sort((a, b) => a - b);
+const ordemDec = [...numeros].sort((a, b) => b - a);
+console.log(ordemCres, ordemDec);
+
+// includes() retorna boolean se um valor existe no array
+const frutas = ['maçã', 'banana', 'morango'];
+console.log(frutas.includes('uva'));
+console.log(frutas.includes("banana"));
+
+
+
