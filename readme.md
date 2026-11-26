@@ -54,7 +54,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica e
 | **2** | 5 a 8 | Functions, callbacks e promises • DOM + API • Python para Backend • Introdução ao Django | `Preencher` |
 | **3** | 9 a 12 | Apresentação, posicionamento e carreira | `Preencher` |
 | **4** | 13 a 16 | Comunicação e postura em uma equipe de desenvolvimento | `Preencher` |
-| **5 e 6** | 17 a 24 | Acompnhamento dos meus projetos acadêmicos | `Preencher` |
+| **5 e 6** | 17 a 24 | Acompanhamento dos meus projetos acadêmicos | `Preencher` |
 
 ---
 
