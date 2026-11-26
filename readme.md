@@ -10,7 +10,7 @@
 
 Este repositório reúne o registro da minha jornada na **Mentoria Adas**: o que estudei a cada semana, os exercícios e projetos desenvolvidos, as reflexões de cada mês e os resultados alcançados. Ele funciona como diário de bordo e também como parte do meu portfólio.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica em Informática  (IFRN)**,  aluna pesquisadora na área de robótica e atualmente estagiária na Secretaria de Estado da Infraestrutura do Rio Grande do Norte (SIN/RN). Na mentoria, busquei fortalecer os fundamentos de Front-End, avançar no Back-End e ganhar maturidade técnica para atuar como desenvolvedora de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica em Informática  (IFRN)**,  aluna pesquisadora na área de **Modelagem de Sistemas Cíberfísicos**, e atualmente estagiária na **Secretaria de Estado da Infraestrutura do Rio Grande do Norte (SIN/RN)**. Na mentoria, busquei fortalecer os fundamentos de Front-End, avançar no Back-End e ganhar maturidade técnica para atuar como desenvolvedora de software.
 
 ---
 
@@ -53,9 +53,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica e
 | **1** | 1 a 4 | HTML semântico, acessibilidade e SEO básico • CSS (box model, display e posicionamento) • Responsividade e layout • Lógica de programação com JavaScript | `Preencher` |
 | **2** | 5 a 8 | Functions, callbacks e promises • DOM + API • Python para Backend • Introdução ao Django | `Preencher` |
 | **3** | 9 a 12 | Apresentação, posicionamento e carreira | `Preencher` |
-| **4** | 13 a 16 | `Preencher` | `Preencher` |
-| **5** | 17 a 20 | `Preencher` | `Preencher` |
-| **6** | 21 a 24 | `Preencher` | `Preencher` |
+| **4** | 13 a 16 | Comunicação e postura em uma equipe de desenvolvimento | `Preencher` |
+| **5 e 6** | 17 a 24 | Acompnhamento dos meus projetos acadêmicos | `Preencher` |
 
 ---
 
@@ -82,7 +81,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica e
 | Semanas concluídas | `Preencher` | 9 semanas concluídas no quadro de acompanhamento |
 | Projetos concluídos | `Preencher` | `Preencher` |
 | Conceitos praticados | HTML, CSS, JavaScript, React, Back-End | HTML/CSS, JavaScript assíncrono, DOM + API, Python e Django |
-| Rotina de estudos | `Preencher` | `Preencher` |
 
 ---
 
@@ -93,8 +91,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica e
 - [x] Contato com Back-End usando Python e Django *(semanas 7 e 8)*
 - [x] Trabalho de apresentação, posicionamento profissional e carreira *(semana 10)*
 - [x] **Vaga de estágio em um órgão público**
-- [ ] `Adicionar outros objetivos concluídos e a semana em que foram alcançados`
-
 
 ---
 
@@ -104,16 +100,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFRN)**, **Técnica e
 - **Habilidades que desenvolvi:** comunicação.
 - **Maior desafio e como lidei com ele:** ter muita demanda e pouco tempo para gerenciar tudo.
 - **O que faria diferente:** focar em um caminho mais linear.
-- **Lições aprendidas:** `Preencher`
+- **Lições aprendidas:** Fazer um pouco todos os dias é mais proveitoso do que muito em um único dia e nada por muitos dias.
 
 ---
 
 ## 📚 Materiais e referências
 
-| Tipo | Link / descrição |
-|---|---|
-| Projetos ou entregas de destaque | `Preencher com links para arquivos ou pastas do projeto` |
-| Anotações e referências | `Preencher` |
-| Feedbacks recebidos | `Preencher` |
+### Projeto ou entregas de destaque
+
+| Projeto | Descrição | Materiais e links |
+|---|---|---|
+| **Marias** | Sistema web de apoio psicológico a mulheres vítimas de violência. (Disponível nesse repositório apenas algumas documentações: o projeto completo ainda está sendo desenvolvido em um repositório privado). | &bull; [Documento de visão](./projeto_marias_doc/doc-visao.md)<br>&bull; [CDU 01 — Solicitar ser paciente](./projeto_marias_doc/cdu-01/detalhamento-01.md)<br>&bull; [CDU 06 — Dar feedback de serviço](./projeto_marias_doc/cdu-06/detalhamento-06.md)<br>&bull; [CDU 08 — Analisar solicitações](./projeto_marias_doc/cdu-08/detalhamento-08.md)<br>&bull; [CDU 12 — Analisar justificativas](./projeto_marias_doc/cdu-12/detalhamento-12.md)<br>&bull; [Diagrama de casos de uso](./projeto_marias_doc/marias_CDUs.png)<br>&bull; [Diagrama de classes](./projeto_marias_doc/Marias_ClassDiagram.png)<br>&bull; [Diagrama de sequência — Solicitar ser paciente](./projeto_marias_doc/SequenceDiagram_Solicitar-Ser-Psi.png) |
+| **Jarvis: Modelagem de um Sistema Ciberfísico com AADL** | Meu projeto de pesquisa na área da robótica, onde estudei análise e modelagem de sistemas ciberfísicos com AADL. | &bull; [Artigo aprovado na Expotec 2026 do IFRN Campus Natal Central](./jarvis-pesquisa/Resumo_Expandido_Expotec2026_Jarvis.pdf)<br>&bull; [Avaliações do artigo](./jarvis-pesquisa/avaliações-artigo.png) |
+| **Leides Artes** | Catálogo digital para minha loja de personalizados | &bull; [Link do repositório do projeto](https://github.com/jenniferdomgs/catalogoLeides) |
+
 
 ---
